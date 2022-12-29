@@ -1,2 +1,3 @@
 # Project1
-Project about creating Library using Python
+Project about creating English Dictionary Application that returns definition of English words by using Python Programming.
+Library Book Management System is implemented with the front end GUI developed using Tkinter and the backend database implemented in SQLite. It is a single window tkinter GUI application which will implement CRUD( create, read, update, delete) operations on a ‘books’ database, in SQLite. The window will contain text widgets to accept / display book title, author, year of publication, ISBN (optional) and a large text area/ list box to display the records which match the search criteria.
